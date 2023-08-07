@@ -1,0 +1,21 @@
+{
+  "name": "eneric-repository.git",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/AZURE-CLOUD-OPS-MANAGER/generic-repository/assets/141512561/37bef095-a794-4f45-bcfc-ce9fd9cec0e5)",
+  "main": "index.js",
+  "scripts": {
+    "test": "EXIT 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init"
+  },
+  "keywords": [
+    "NAGER/https://github.com/AZURE-CLOUD-OPS-MANAGER/generic-repository.git"
+  ],
+  "author": "",
+  "license": "ISC"
+
+  "publishConfig": {
+   "@AZURE-CLOUD-OPS-MANAGER:registry": "https://npm.pkg.github.com"
+}
