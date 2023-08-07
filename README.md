@@ -1,4 +1,4 @@
-# AZURE-CLOUD-OPS-MANAGER | ![image](https://github.com/AZURE-CLOUD-OPS-MANAGER/generic-repository/assets/141512561/37bef095-a794-4f45-bcfc-ce9fd9cec0e5)
+![image](https://github.com/AZURE-CLOUD-OPS-MANAGER/generic-repository/assets/141512561/37bef095-a794-4f45-bcfc-ce9fd9cec0e5)
 
 ----
 ## Azure Cloud Operations Manager | OUTLOOK
